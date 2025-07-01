@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "James Salamon"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+  page-footer:
+    center: "© 2025 James Salamon"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
