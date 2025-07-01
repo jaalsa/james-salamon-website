@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "NEAIR, August 2024\nDelivered a live session on using RStudio and R for IR, survey analysis, automation, and data visualization.\n\n\n\nMCPHS Faculty Scholarship Showcase, April 2024"
+  },
+  {
+    "objectID": "projects.html#selected-presentations",
+    "href": "projects.html#selected-presentations",
+    "title": "Projects",
+    "section": "",
+    "text": "NEAIR, August 2024\nDelivered a live session on using RStudio and R for IR, survey analysis, automation, and data visualization.\n\n\n\nMCPHS Faculty Scholarship Showcase, April 2024"
+  },
+  {
+    "objectID": "projects.html#past-talks-research",
+    "href": "projects.html#past-talks-research",
+    "title": "Projects",
+    "section": "Past Talks & Research",
+    "text": "Past Talks & Research\n\nMitigating Gender Bias in Student Evaluations of Teaching\nNEAIR Conference 2021\n\nCOVID-19 Inspired Research: Return to Campus Survey Dashboard\nNEAIR Conference 2020\n\nFaculty Development Series on Assessment (Ongoing)"
+  },
+  {
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "Projects",
+    "section": "Ongoing Projects",
+    "text": "Ongoing Projects\n\nStrategic Data Support for MCPHS\n\nFuture Workforce Planning Group\n\nFaculty Manual Revision Initiative"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "M.A. Economics and Education, Teachers College, Columbia University\n\nB.A. Economics & Russian Studies, Wheaton College\n\nCertificate in Data Visualization, The New School"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "M.A. Economics and Education, Teachers College, Columbia University\n\nB.A. Economics & Russian Studies, Wheaton College\n\nCertificate in Data Visualization, The New School"
+  },
+  {
+    "objectID": "cv.html#current-role",
+    "href": "cv.html#current-role",
+    "title": "Curriculum Vitae",
+    "section": "Current Role",
+    "text": "Current Role\nAssociate Director of Institutional Research and Assessment\nMassachusetts College of Pharmacy and Health Sciences (2022–Present)\n\nBuilt and manages the university’s IR database with SQL and Azure\nLeads course evaluations, data governance, and accreditation reporting\nPresents institutional dashboards and supports strategic planning"
+  },
+  {
+    "objectID": "cv.html#previous-roles",
+    "href": "cv.html#previous-roles",
+    "title": "Curriculum Vitae",
+    "section": "Previous Roles",
+    "text": "Previous Roles\nAssistant Director, Institutional Research (MCPHS)\nResearch & Business Analyst (The New School)\nData Analyst, Office of Student Success (The New School)\nWorkforce Management Analyst (NYC 311)\nData Analyst (NYC DOE)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: R, SQL, Python, SPSS\n\nTools: Tableau, Quarto, Qualtrics, Azure, Jupyter, Visual Studio Code\n\nERP/Database: Workday, Ellucian Banner, DBeaver"
+  },
+  {
+    "objectID": "cv.html#memberships-involvement",
+    "href": "cv.html#memberships-involvement",
+    "title": "Curriculum Vitae",
+    "section": "Memberships & Involvement",
+    "text": "Memberships & Involvement\n\nNorth East Association for Institutional Research (NEAIR)\n\nEDUCAUSE\n\nAssociation for Institutional Research (AIR)\n\nFaculty Development & Data Governance Committees (MCPHS)"
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\n\nData Governance Essentials – EDUCAUSE\n\nLeadership Management Program – Colleges of the Fenway"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m James Salamon, a higher education data professional based in Easthampton, MA. I currently serve as the Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.\nWith a passion for clear, actionable insight, I’ve led initiatives in: - Strategic planning - Data infrastructure and governance - Accreditation and institutional effectiveness - Survey design and analysis\nI’m a presenter, collaborator, and workshop leader, focused on leveraging open-source tools like R and Quarto to modernize institutional research practice.\n\n\n\n📧 james.a.salamon@gmail.com\n📍 Easthampton, MA\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I’m James Salamon, a higher education data professional based in Easthampton, MA. I currently serve as the Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.\nWith a passion for clear, actionable insight, I’ve led initiatives in: - Strategic planning - Data infrastructure and governance - Accreditation and institutional effectiveness - Survey design and analysis\nI’m a presenter, collaborator, and workshop leader, focused on leveraging open-source tools like R and Quarto to modernize institutional research practice.\n\n\n\n📧 james.a.salamon@gmail.com\n📍 Easthampton, MA\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m James 👋\nI’m an institutional research leader and strategist passionate about turning data into action. I work at the intersection of research, assessment, and decision support in higher education.\n🔍 I specialize in: - Data governance and visualization - Survey research and design - Assessment and accreditation support - R, SQL, Tableau, Python, and Quarto\n💼 Currently: Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.\nExplore this site to learn more about my background, resume, and projects."
+  }
+]
