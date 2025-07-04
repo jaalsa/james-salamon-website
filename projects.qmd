@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 format: html
-date: last-modified
 ---
 
 ## Selected Presentations

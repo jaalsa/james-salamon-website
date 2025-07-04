@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 format: html
-date: last-modified
 ---
 
 # Hi, I'm James 👋
@@ -16,4 +15,4 @@ I'm an institutional research leader and strategist passionate about turning dat
 
 💼 Currently: Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.
 
-Explore this site to learn more about my [background](about.qmd), [resume](cv.qmd), and [projects](projects.qmd).
+Explore this site to learn more about my [background](about.qmd), [resume](James Salamon_Resume.qmd), and [projects](projects.qmd).

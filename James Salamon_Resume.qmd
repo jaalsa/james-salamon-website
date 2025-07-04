@@ -1,6 +1,5 @@
 ---
 title: "James Salamon"
-date: last-modified
 format:
   typst:
     pdf-engine: typst

@@ -1,7 +1,6 @@
 ---
 title: "About"
 format: html
-date: last-modified
 ---
 
 ## About Me
