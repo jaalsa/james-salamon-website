@@ -48,14 +48,14 @@ Strategic data leader with 8+ years of experience transforming complex instituti
 **June 2020 – Present**
 
 **Associate Director, Office of Institutional Research and Assessment** | *July 2022 – Present*  
-Led comprehensive institutional research operations for a multi-campus health sciences university, overseeing data infrastructure development and assessment programs serving diverse academic constituencies.
+Lead comprehensive institutional research operations for a multi-campus health sciences university, overseeing data infrastructure development and assessment programs serving diverse academic constituencies.
 
 - Built Enterprise Data Infrastructure by collaborating with IT to design and implement the university's first Institutional Research and Assessment Database, establishing foundational data architecture using Azure Data Studio and advanced SQL programming.  
-- Managed University-Wide Assessment Programs through spearheading comprehensive course evaluation processes from design through analysis, ensuring systematic data collection across all academic programs.  
-- Established Data Governance Framework by leading development of university-wide data governance policies, procedures, and standards, driving organizational commitment to data quality and regulatory compliance.  
-- Delivered Critical Compliance Reporting by ensuring timely completion of IPEDS submissions and NECHE accreditation requirements, maintaining institutional standing and regulatory compliance.  
-- Supported Academic Leadership by partnering with Deans and Program Directors to develop customized assessment strategies and accreditation documentation for specialized health sciences programs.  
-- Presented Strategic Insights through delivering executive-level dashboard presentations to Institutional Assessment Committee, translating complex data into actionable institutional metrics.  
+- Manage University-Wide Assessment Programs through spearheading comprehensive course evaluation processes from design through analysis, ensuring systematic data collection across all academic programs.  
+- Establish Data Governance Framework by leading development of university-wide data governance policies, procedures, and standards, driving organizational commitment to data quality and regulatory compliance.  
+- Deliver Critical Compliance Reporting by ensuring timely completion of IPEDS submissions and NECHE accreditation requirements, maintaining institutional standing and regulatory compliance.  
+- Support Academic Leadership by partnering with Deans and Program Directors to develop customized assessment strategies and accreditation documentation for specialized health sciences programs.  
+- Present Strategic Insights through delivering executive-level dashboard presentations to Institutional Assessment Committee, translating complex data into actionable institutional metrics.  
 
 **Assistant Director, Office of Institutional Research and Assessment** | *June 2020 – July 2022*  
 Established foundational systems and processes for institutional research operations, creating scalable solutions for data collection and analysis across university departments.
@@ -105,7 +105,10 @@ Supported research and policy development for the nation's largest public school
 
 ## Professional Leadership & Research
 
-**Conference Presenter | North East Association for Institutional Research** | *August 2024*  
+**North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *June 2025*  
+Delivered a professional development webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
+
+**North East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *August 2024*  
 Delivered professional development webinar on "Transformative Potential of R and RStudio for Institutional Research" to regional professional audience, demonstrating advanced analytical capabilities and automation strategies.
 
 **Research Team Leader | MCPHS University** | *April 2024*  
@@ -123,7 +126,7 @@ Conference Presenter, Annual Conference Local Arrangements Committee Member, Ele
 Active Member
 
 **EDUCAUSE** | *June 2020 – Present*  
-Member focused on higher education technology and data governance
+Member focused on higher education leadership, technology, and data governance
 
 ## Education & Credentials
 
@@ -142,7 +145,7 @@ Leadership Management Program (Colleges of the Fenway, April 2023)
 
 ## Technical Proficiencies
 
-**Database & Analytics:** Azure Data Studio, SQL, R/RStudio, Python, SPSS, DuckDB  
+**Database & Analytics:** Azure Data Studio, SQL, R/RStudio, Python, Positron, SPSS, DuckDB  
 **Visualization & Reporting:** Tableau (Prep, Desktop, Server), Power BI, Advanced Excel  
 **Enterprise Systems:** Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle  
 **Research Tools:** Qualtrics, JAMOVI, JASP, JupyterLab, Visual Studio Code
