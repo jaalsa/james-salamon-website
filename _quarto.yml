@@ -10,16 +10,16 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: cv.qmd
+      - href: James Salamon_Resume.qmd
         text: Resume
       - href: projects.qmd
         text: Projects
   page-footer:
     center: |
       © 2025 James Salamon  
-      {{< include _footer.html >}}
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-after-body: _footer.html

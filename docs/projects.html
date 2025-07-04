@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.pdf"> 
+    <a class="nav-link" href="./James Salamon_Resume.pdf"> 
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
@@ -194,6 +194,45 @@ NEAIR Conference 2020<br>
 </section>
 
 </main> <!-- /main -->
+<p style="text-align: center; font-size: 0.8em; color: gray;">
+
+  Last updated: <span id="datetime"></span> 
+
+</p>
+
+
+
+<script>
+
+  function getCurrentDateTime() {
+
+    const date = new Date();
+
+
+
+    const year = date.getFullYear();
+
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+
+    const day = String(date.getDate()).padStart(2, '0');
+
+    const hours = String(date.getHours()).padStart(2, '0');
+
+    const minutes = String(date.getMinutes()).padStart(2, '0');
+
+
+
+    const formatted = `${year}-${month}-${day} ${hours}:${minutes}`;
+
+    document.getElementById("datetime").textContent = formatted;
+
+  }
+
+
+
+  getCurrentDateTime();
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -600,8 +639,7 @@ NEAIR Conference 2020<br>
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2025 James Salamon<br>
-{{&lt; include _footer.html &gt;}}</p>
+<p>© 2025 James Salamon</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
