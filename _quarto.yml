@@ -11,12 +11,13 @@ website:
       - href: about.qmd
         text: About
       - href: cv.qmd
-        text: CV
+        text: Resume
       - href: projects.qmd
         text: Projects
   page-footer:
-    center: "© 2025 James Salamon"
-
+    center: |
+      © 2025 James Salamon  
+      {{< include _footer.html >}}
 format:
   html:
     theme: cosmo

@@ -1,64 +1,149 @@
 ---
-title: "Curriculum Vitae"
-format: html
+title: "James Salamon"
+date: last-modified
+format:
+  typst:
+    pdf-engine: typst
+    papersize: us-letter
+    margin:
+      x: 1in
+      y: 1in
+    mainfont: "IBM Plex Serif"
+    sansfont: "IBM Plex Sans"
+    monofont: "IBM Plex Mono"
+    fontsize: 11pt
+    lineheight: 1.15
+    toc: false
+    block-spacing: 0.65em
+    par-leading: 0.65em
+    first-line-indent: 0pt
+    par-justify: true
+    hyphenate: true
+    lang: "en"
+    region: "US"
+    cite-style: apa
+    bibliography-style: apa
+    keep-tex: false
 ---
 
-## Education
+::: {.center}
+**13 Clinton St, Easthampton, MA 01027**  
+**(646) 924-7786 | james.a.salamon@gmail.com**  
+**LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
+:::
 
-- **M.A. Economics and Education**, Teachers College, Columbia University  
-- **B.A. Economics & Russian Studies**, Wheaton College  
-- **Certificate in Data Visualization**, The New School
+## Professional Summary
 
----
+Strategic data leader with 8+ years of experience transforming complex institutional data into actionable business intelligence for higher education organizations. Proven track record of building enterprise-level data infrastructure, implementing university-wide assessment programs, and delivering $18,000+ in annual cost savings through innovative survey solutions. Expert in statistical analysis, data governance, and cross-functional collaboration, with demonstrated success in supporting accreditation requirements and strategic planning initiatives across multiple institutions.
 
-## Current Role
+## Core Competencies
 
-**Associate Director of Institutional Research and Assessment**  
-_Massachusetts College of Pharmacy and Health Sciences (July 2022–Present)_
+**Data & Analytics:** SQL, R, Python, SPSS, Statistical Analysis, Data Visualization, Business Intelligence  
+**Platforms & Tools:** Azure Data Studio, Tableau, Workday ERP, Oracle, DuckDB, Qualtrics, Salesforce  
+**Research & Assessment:** Survey Design, Institutional Research, Program Assessment, Data Governance  
+**Leadership:** Project Management, Cross-functional Collaboration, Strategic Planning, Process Improvement
 
-- Built and manages the university’s IR database with SQL and Azure
-- Leads course evaluations, data governance, and accreditation reporting
-- Presents institutional dashboards and supports strategic planning
+## Professional Experience
 
----
+### Massachusetts College of Pharmacy and Health Sciences | Boston, MA  
+**June 2020 – Present**
 
-## Previous Roles
+**Associate Director, Office of Institutional Research and Assessment** | *July 2022 – Present*  
+Led comprehensive institutional research operations for a multi-campus health sciences university, overseeing data infrastructure development and assessment programs serving diverse academic constituencies.
 
-**Assistant Director of Institutional Research**  
-_Massachusetts College of Pharmacy and Health Sciences (June 2020–July 2022)_
+- Built Enterprise Data Infrastructure by collaborating with IT to design and implement the university's first Institutional Research and Assessment Database, establishing foundational data architecture using Azure Data Studio and advanced SQL programming.  
+- Managed University-Wide Assessment Programs through spearheading comprehensive course evaluation processes from design through analysis, ensuring systematic data collection across all academic programs.  
+- Established Data Governance Framework by leading development of university-wide data governance policies, procedures, and standards, driving organizational commitment to data quality and regulatory compliance.  
+- Delivered Critical Compliance Reporting by ensuring timely completion of IPEDS submissions and NECHE accreditation requirements, maintaining institutional standing and regulatory compliance.  
+- Supported Academic Leadership by partnering with Deans and Program Directors to develop customized assessment strategies and accreditation documentation for specialized health sciences programs.  
+- Presented Strategic Insights through delivering executive-level dashboard presentations to Institutional Assessment Committee, translating complex data into actionable institutional metrics.  
 
-**Research & Business Analyst, Office of Institutional Research and Decision Support**  
-_The New School (October 2018–June 2020)_
+**Assistant Director, Office of Institutional Research and Assessment** | *June 2020 – July 2022*  
+Established foundational systems and processes for institutional research operations, creating scalable solutions for data collection and analysis across university departments.
 
-**Data Analyst, Office of Student Success**  
-_The New School (January 2017–October 2018)_
+- Streamlined Service Delivery by creating the university's first comprehensive Services Request Form, reducing project turnaround time and improving stakeholder satisfaction.  
+- Conducted Strategic Research through completing high-impact research projects for internal leadership and external regulatory bodies, supporting evidence-based decision making.  
+- Provided Technical Consultation by delivering research design expertise to faculty and staff, enhancing institutional capacity for data-driven program improvement.  
+- Developed Survey Infrastructure through designing and administering annual institutional surveys, establishing baseline metrics for ongoing assessment and improvement initiatives.
 
-**Workforce Management Analyst | NYC 311**  
-_Research Foundation ofThe City University of New York (May 2015–January 2017)_
+### The New School | New York, NY  
+**January 2017 – June 2020**
 
-**Data Analyst, Research/Analytic Consultant | New York City Department of Education**  
-_School Professionals (October 2014–May 2015)_
+**Research and Business Systems Analyst, Office of Institutional Research** | *October 2018 – June 2020*  
+Delivered comprehensive data analysis and reporting solutions for a major private research university, optimizing operational efficiency through strategic technology implementation.
 
----
+- Generated Significant Cost Savings by creating and maintaining graduate outcomes survey system, delivering $18,000 in annual savings while improving data quality and response rates.  
+- Developed Multi-Platform Analytics by designing complex reports using SQL, SPSS, R, and Tableau across diverse environments including Workday, Oracle, and SQL Server, ensuring comprehensive data accessibility for university leadership.  
+- Ensured Regulatory Compliance by providing critical data analysis for federal and state reporting requirements, accreditation submissions, and college ranking publications.  
+- Enhanced Data Quality Processes through conducting systematic data quality audits and delivering actionable recommendations to HR, Payroll, Finance, and IT system owners.  
+- Supported Strategic Planning by creating sophisticated Workday ERP reports for academic planning, budgeting, and financial analysis in support of Provost Office initiatives.
 
-## Skills
+**Data Analyst, Office of Student Success** | *January 2017 – October 2018*  
+Established systematic data request processes and conducted high-impact retention research, supporting university-wide student success initiatives.
 
-- **Languages**: R, SQL, Python, SPSS  
-- **Tools**: Tableau, Quarto, Qualtrics, Azure, Jupyter, Visual Studio Code  
-- **ERP/Database**: Workday, Ellucian Banner, DBeaver
+- Implemented Service Excellence System by creating Data Project Request Ticket System, streamlining administrative data requests and improving cross-departmental collaboration.  
+- Led High-Profile Research Initiative through conducting and presenting College of Performing Arts Retention Study to senior university leadership, influencing strategic enrollment management decisions.  
+- Delivered Comprehensive Analytics by producing statistical reports on enrollment trends, retention patterns, and student demographics, supporting evidence-based program development.  
+- Advanced Analytical Best Practices through establishing standards for statistical approaches, reproducibility protocols, and accuracy validation across institutional research functions.
 
----
+### Research Foundation of The City University of New York | New York, NY  
+**Workforce Management Analyst | NYC 311** | *May 2015 – January 2017*
 
-## Memberships & Involvement
+Provided strategic workforce analytics for New York City's primary citizen services platform, optimizing operational efficiency through data-driven forecasting and resource allocation.
 
-- North East Association for Institutional Research (NEAIR)  
-- EDUCAUSE  
-- Association for Institutional Research (AIR)  
-- Faculty Development & Data Governance Committees (MCPHS)  
+- Delivered Executive Reporting by creating comprehensive analyses of historical trends, departmental efficiency metrics, and strategic planning recommendations for NYC 311 senior management.  
+- Conducted Predictive Analytics through developing sophisticated call volume and staffing forecasting models, enabling proactive resource planning and service level optimization.  
+- Identified Operational Opportunities by analyzing seasonal patterns and service trends to recommend operational improvements and efficiency enhancements.
 
----
+### School Professionals | New York, NY  
+**Data Analyst/Research Consultant | NYC Department of Education** | *October 2014 – May 2015*
 
-## Certifications
+Supported research and policy development for the nation's largest public school system through comprehensive data analysis and strategic research initiatives.
 
-- Data Governance Essentials – EDUCAUSE  
-- Leadership Management Program – Colleges of the Fenway
+- Managed High-Priority Research Requests by processing external researcher data requests and Freedom of Information Law inquiries with strict confidentiality and accuracy standards.  
+- Contributed to Policy Development through authoring policy briefs and conducting literature reviews supporting major NYC Department of Education initiatives.  
+- Applied Advanced Statistical Methods by utilizing descriptive and inferential statistics for complex analytical projects supporting educational policy decisions.
+
+## Professional Leadership & Research
+
+**Conference Presenter | North East Association for Institutional Research** | *August 2024*  
+Delivered professional development webinar on "Transformative Potential of R and RStudio for Institutional Research" to regional professional audience, demonstrating advanced analytical capabilities and automation strategies.
+
+**Research Team Leader | MCPHS University** | *April 2024*  
+Presented IRB-approved research study on interprofessional education and underserved community care at Faculty Scholarship Showcase, supported by university Center for Interprofessional Practice grant funding.
+
+**Assessment Training Developer | MCPHS University** | *June 2022 – Present*  
+Lead presenter for Faculty Development Series on Understanding Assessment, delivering training on assessment planning, data collection strategies, and best practices to university faculty.
+
+## Professional Associations & Leadership
+
+**North East Association for Institutional Research** | *June 2020 – Present*  
+Conference Presenter, Annual Conference Local Arrangements Committee Member, Elected Nominating Committee Member, and NEAIR Gives Back Coordinator
+
+**Association for Institutional Research** | *January 2017 – Present*  
+Active Member
+
+**EDUCAUSE** | *June 2020 – Present*  
+Member focused on higher education technology and data governance
+
+## Education & Credentials
+
+**Certificate, Infographics and Data Visualization Design**  
+*The New School, New York, NY | September 2018 – May 2019*
+
+**Master of Arts, Economics and Education**  
+*Teachers College, Columbia University, New York, NY | September 2013 – October 2014*
+
+**Bachelor of Arts, Double Major: Economics and Russian Studies**  
+*Wheaton College, Norton, MA | August 2009 – May 2013*
+
+**Professional Certifications:**  
+Data Governance Essentials (EDUCAUSE, May 2024)  
+Leadership Management Program (Colleges of the Fenway, April 2023)
+
+## Technical Proficiencies
+
+**Database & Analytics:** Azure Data Studio, SQL, R/RStudio, Python, SPSS, DuckDB  
+**Visualization & Reporting:** Tableau (Prep, Desktop, Server), Power BI, Advanced Excel  
+**Enterprise Systems:** Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle  
+**Research Tools:** Qualtrics, JAMOVI, JASP, JupyterLab, Visual Studio Code
