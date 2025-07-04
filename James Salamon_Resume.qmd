@@ -35,12 +35,14 @@ format:
 
 Strategic data leader with 8+ years of experience transforming complex institutional data into actionable business intelligence for higher education organizations. Proven track record of building enterprise-level data infrastructure, implementing university-wide assessment programs, and delivering $18,000+ in annual cost savings through innovative survey solutions. Expert in statistical analysis, data governance, and cross-functional collaboration, with demonstrated success in supporting accreditation requirements and strategic planning initiatives across multiple institutions.
 
-## Core Competencies
+## Technical Skills & Core Competencies
 
-**Data & Analytics:** SQL, R, Python, SPSS, Statistical Analysis, Data Visualization, Business Intelligence  
-**Platforms & Tools:** Azure Data Studio, Tableau, Workday ERP, Oracle, DuckDB, Qualtrics, Salesforce  
-**Research & Assessment:** Survey Design, Institutional Research, Program Assessment, Data Governance  
-**Leadership:** Project Management, Cross-functional Collaboration, Strategic Planning, Process Improvement
+**Data & Analytics:** SQL, R/RStudio, Python, SPSS, DuckDB, Statistical Analysis, Business Intelligence, Data Visualization  
+**Visualization & Reporting Tools:** Tableau (Prep, Desktop, Server), Power BI, Advanced Excel  
+**Research & Assessment Tools:** Qualtrics, JAMOVI, JASP, Survey Design, Institutional Research, Program Assessment, Data Governance  
+**Platforms & Systems:** Azure Data Studio, Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle, Positron, Visual Studio Code, JupyterLab  
+**Enterprise Technologies:** Tableau Server, Workday ERP, Ellucian Systems, Salesforce CRM, Oracle Databases  
+**Collaboration & Leadership:** Project Management, Strategic Planning, Cross-functional Collaboration, Process Improvement
 
 ## Professional Experience
 
@@ -142,10 +144,3 @@ Member focused on higher education leadership, technology, and data governance
 **Professional Certifications:**  
 Data Governance Essentials (EDUCAUSE, May 2024)  
 Leadership Management Program (Colleges of the Fenway, April 2023)
-
-## Technical Proficiencies
-
-**Database & Analytics:** Azure Data Studio, SQL, R/RStudio, Python, Positron, SPSS, DuckDB  
-**Visualization & Reporting:** Tableau (Prep, Desktop, Server), Power BI, Advanced Excel  
-**Enterprise Systems:** Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle  
-**Research Tools:** Qualtrics, JAMOVI, JASP, JupyterLab, Visual Studio Code
