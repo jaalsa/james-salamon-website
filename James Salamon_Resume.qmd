@@ -107,10 +107,10 @@ Supported research and policy development for the nation's largest public school
 
 ## Professional Leadership & Research
 
-**North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *June 2025*  
+**2025 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *June 2025*  
 Delivered a professional development webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
 
-**North East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *August 2024*  
+**2024 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *August 2024*  
 Delivered professional development webinar on "Transformative Potential of R and RStudio for Institutional Research" to regional professional audience, demonstrating advanced analytical capabilities and automation strategies.
 
 **Research Team Leader | MCPHS University** | *April 2024*  
