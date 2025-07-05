@@ -28,13 +28,13 @@ format:
 ::: {.center}
 **13 Clinton St, Easthampton, MA 01027**  
 **james.a.salamon@gmail.com | (646) 924-7786**  
-**Website: https://jaalsa.github.io/james-salamon-website/**
+**Website: https://jaalsa.github.io/james-salamon-website/**  
 **LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
 :::
 
 ## Professional Summary
 
-Strategic data leader with 8+ years of experience transforming complex institutional data into actionable business intelligence for higher education organizations. Proven track record of building enterprise-level data infrastructure, implementing university-wide assessment programs, and delivering $18,000+ in annual cost savings through innovative survey solutions. Expert in statistical analysis, data governance, and cross-functional collaboration, with demonstrated success in supporting accreditation requirements and strategic planning initiatives across multiple institutions.
+Strategic data leader with 10+ years of experience transforming complex institutional data into actionable business intelligence for organizations. Proven track record of building enterprise-level data infrastructure, implementing university-wide assessment programs, and delivering $18,000+ in annual cost savings through innovative survey solutions. Expert in statistical analysis, data governance, and cross-functional collaboration, with demonstrated success in supporting accreditation requirements and strategic planning initiatives across multiple institutions.
 
 ## Technical Skills & Core Competencies
 

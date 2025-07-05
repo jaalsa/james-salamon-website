@@ -10,7 +10,7 @@ format:
     anchor-sections: false
 ---
 
-I transform complex institutional data into actionable insights that drive strategic decision-making in higher education. With 8+ years of experience, I specialize in building enterprise data infrastructure, implementing assessment programs, and delivering measurable results that support institutional excellence.
+I transform complex institutional data into actionable insights that drive strategic decision-making in higher education. With 10+ years of experience, I specialize in building enterprise data infrastructure, implementing assessment programs, and delivering measurable results that support organizations.
 
 ## What I Do
 
