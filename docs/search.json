@@ -23,9 +23,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "James Salamon",
     "section": "",
-    "text": "Hi, I’m James 👋\nI’m an institutional research leader and strategist passionate about turning data into action. I work at the intersection of research, assessment, and decision support in higher education.\n🔍 I specialize in: - Data governance and visualization - Survey research and design - Assessment and accreditation support - R, SQL, Tableau, Python, and Quarto\n💼 Currently: Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.\nExplore this site to learn more about my background, resume, and projects."
+    "text": "I transform complex institutional data into actionable insights that drive strategic decision-making in higher education. With 8+ years of experience, I specialize in building enterprise data infrastructure, implementing assessment programs, and delivering measurable results that support institutional excellence."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "James Salamon",
+    "section": "What I Do",
+    "text": "What I Do\nI help higher education institutions make data-driven decisions through comprehensive research, assessment programs, and business intelligence solutions. My expertise spans the full data lifecycle—from governance and collection to analysis and strategic reporting.\nKey Achievements: - Built enterprise-level data infrastructure serving multi-campus university systems - Delivered $18,000+ in annual cost savings through innovative survey automation - Led university-wide assessment programs supporting accreditation and strategic planning - Developed data governance frameworks ensuring compliance and quality standards\nTechnical Expertise: - Analytics & Programming: R/RStudio, SQL, Python, SPSS, Statistical Analysis - Visualization: Tableau (Server, Desktop, Prep), Power BI, Quarto, Advanced Excel - Research & Assessment: Survey Design, Institutional Research, Program Evaluation - Enterprise Systems: Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle - Development Tools: Azure Data Studio, Visual Studio Code, JupyterLab, Positron"
+  },
+  {
+    "objectID": "index.html#current-role",
+    "href": "index.html#current-role",
+    "title": "James Salamon",
+    "section": "Current Role",
+    "text": "Current Role\nAssociate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences, where I lead data strategy initiatives and support evidence-based decision making across multiple schools and programs."
+  },
+  {
+    "objectID": "index.html#professional-impact",
+    "href": "index.html#professional-impact",
+    "title": "James Salamon",
+    "section": "Professional Impact",
+    "text": "Professional Impact\nI’ve presented at regional conferences, led professional development workshops, and contributed to the advancement of institutional research practices. My work bridges the gap between complex data analysis and practical institutional needs.\n\nExplore More: View My Resume | See My Projects | Learn About My Background"
   },
   {
     "objectID": "about.html",
