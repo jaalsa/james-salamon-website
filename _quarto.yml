@@ -16,8 +16,8 @@ website:
         text: Projects
   page-footer:
     center: |
-      © 2025 James Salamon
-      _Last updated: July 5, 2025_
+      © 2025 James Salamon<br>
+      <em>Last updated: July 5, 2025</em>
 format:
   html:
     theme: cosmo
