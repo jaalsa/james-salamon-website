@@ -27,8 +27,9 @@ format:
 
 ::: {.center}
 **13 Clinton St, Easthampton, MA 01027**  
-**(646) 924-7786 | james.a.salamon@gmail.com**  
-**Website: https://jaalsa.github.io/james-salamon-website/ | LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
+**james.a.salamon@gmail.com | (646) 924-7786**  
+**Website: https://jaalsa.github.io/james-salamon-website/**
+**LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
 :::
 
 ## Professional Summary
@@ -63,11 +64,11 @@ Lead comprehensive institutional research operations for a multi-campus health s
 **Assistant Director, Office of Institutional Research and Assessment** | *June 2020 – July 2022*  
 Established foundational systems and processes for institutional research operations, creating scalable solutions for data collection and analysis across university departments.
 
-- **Streamline Service Delivery:** Created the university's first comprehensive Services Request Form, reducing project turnaround time and improving stakeholder satisfaction
-- **Conduct Strategic Research:** Complete high-impact research projects for internal leadership and external regulatory bodies, supporting evidence-based decision making
-- **Provide Technical Consultation:** Deliver research design expertise to faculty and staff, enhancing institutional capacity for data-driven program improvement
-- **Develop Survey Infrastructure:** Design and administer annual institutional surveys, establishing baseline metrics for ongoing assessment and improvement initiatives
-- **Enhance Data Management:** Create, enhance, and maintain the Office of Institutional Research and Assessment (OIRA) data library
+- **Streamlined Service Delivery:** Created the university's first comprehensive Services Request Form, reducing project turnaround time and improving stakeholder satisfaction
+- **Conducted Strategic Research:** Completed high-impact research projects for internal leadership and external regulatory bodies, supporting evidence-based decision making
+- **Provided Technical Consultation:** Delivered research design expertise to faculty and staff, enhancing institutional capacity for data-driven program improvement
+- **Developed Survey Infrastructure:** Designed and administered annual institutional surveys, establishing baseline metrics for ongoing assessment and improvement initiatives
+- **Enhanced Data Management:** Created, enhanced, and maintained the Office of Institutional Research and Assessment (OIRA) data library
 
 ### The New School | New York, NY  
 **January 2017 – June 2020**
