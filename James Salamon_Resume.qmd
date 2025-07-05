@@ -28,7 +28,7 @@ format:
 ::: {.center}
 **13 Clinton St, Easthampton, MA 01027**  
 **(646) 924-7786 | james.a.salamon@gmail.com**  
-**LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
+**Website: https://jaalsa.github.io/james-salamon-website/ | LinkedIn: https://www.linkedin.com/in/james-salamon-a346b278**
 :::
 
 ## Professional Summary
