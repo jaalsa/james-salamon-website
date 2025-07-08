@@ -7,8 +7,8 @@
     "text": "Skip to main content"
   },
   {
-    "objectID": "projects.html#selected-presentations",
-    "href": "projects.html#selected-presentations",
+    "objectID": "projects.html#main-content",
+    "href": "projects.html#main-content",
     "title": "Projects",
     "section": "Selected Presentations",
     "text": "Selected Presentations\n\nIntegrating Quarto with RStudio for Institutional Research\nNorth East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series, June 2025\n\nDelivered a live webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.\nDemonstrated how to create dynamic, reproducible reports and documents, combining code, text, and visualizations in a Quarto file.\nParticipants received a clear roadmap I created for streamlining data analysis, automating reporting processes, and creating dynamic, reproducible reports using Quarto.\n\n\n\nUsing R for Institutional Research Data Analysis and Visualization\nNorth East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series, August 2024\n\nDelivered a live webinar on the transformative potential of R and RStudio for Institutional Research.\nDemonstrated data manipulation, statistical analysis, and visualization capabilities.\nCovered use cases such as exploratory data analysis, reporting, and survey data analysis.\nHighlighted automation of tasks, handling large datasets, and creating impactful visualizations.\nProvided insights on leveraging R’s package ecosystem for complex analyses.\nEquipped participants with knowledge and resources to enhance their use of R.\n\n\n\nIRB-Approved Study: Providing care to an underserved older adult community utilizing an interprofessional education and practice opportunity. The research was supported by a grant from the University’s Center for Interprofessional Practice (IPE).\nMCPHS Faculty Scholarship Showcase, April 2024"
@@ -56,8 +56,8 @@
     "text": "Skip to main content"
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
+    "objectID": "about.html#main-content",
+    "href": "about.html#main-content",
     "title": "About",
     "section": "About Me",
     "text": "About Me\nI’m James Salamon, a higher education data professional based in Easthampton, MA. I currently serve as the Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.\nWith a passion for clear, actionable insight, I’ve led initiatives in:\n\nStrategic planning\nData infrastructure and governance\nAccreditation and institutional effectiveness\nSurvey design and analysis\n\nI’m a presenter, collaborator, and workshop leader, focused on leveraging open-source tools like R and Quarto to modernize institutional research practice.\n\n\nContact\n📧 james.a.salamon@gmail.com\n📍 Easthampton, MA\n🔗 LinkedIn"

@@ -12,7 +12,7 @@ format:
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<div id="main-content">
+# Introduction {#main-content}
 
 I transform complex institutional data into actionable insights that drive strategic decision-making in higher education. With 10+ years of experience, I specialize in building enterprise data infrastructure, implementing assessment programs, and delivering measurable results that support organizations.
 
@@ -47,5 +47,3 @@ I've presented at regional conferences, led professional development workshops, 
 
 **Explore More:**
 [Learn About My Background](about.qmd) | [View My Resume as a PDF](James Salamon_Resume.qmd) | [See My Projects](projects.qmd) | [Accessibility Statement](accessibility.qmd)
-
-</div>

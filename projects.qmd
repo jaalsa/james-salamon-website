@@ -5,9 +5,7 @@ format: html
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<div id="main-content">
-
-## Selected Presentations
+## Selected Presentations {#main-content}
 
 ### **Integrating Quarto with RStudio for Institutional Research**  
 _North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series, June 2025_
@@ -39,5 +37,3 @@ NEAIR Conference 2021
 - *COVID-19 Inspired Research: Return to Campus Survey Dashboard*  
 NEAIR Conference 2020  
 - Faculty Development Series on Assessment (Ongoing)
-
-</div>

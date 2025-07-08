@@ -5,8 +5,8 @@ format:
     pdf-engine: typst
     papersize: us-letter
     margin:
-      x: 1in
-      y: 1in
+      x: 0.8in
+      y: 0.7in
     mainfont: "IBM Plex Serif"
     sansfont: "IBM Plex Sans"
     monofont: "IBM Plex Mono"
