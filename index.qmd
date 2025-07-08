@@ -10,6 +10,10 @@ format:
     anchor-sections: false
 ---
 
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<div id="main-content">
+
 I transform complex institutional data into actionable insights that drive strategic decision-making in higher education. With 10+ years of experience, I specialize in building enterprise data infrastructure, implementing assessment programs, and delivering measurable results that support organizations.
 
 ## What I Do
@@ -42,4 +46,6 @@ I've presented at regional conferences, led professional development workshops, 
 ---
 
 **Explore More:**
-[View My Resume](James Salamon_Resume.qmd) | [See My Projects](projects.qmd) | [Learn About My Background](about.qmd)
+[Learn About My Background](about.qmd) | [View My Resume as a PDF](James Salamon_Resume.qmd) | [See My Projects](projects.qmd) | [Accessibility Statement](accessibility.qmd)
+
+</div>

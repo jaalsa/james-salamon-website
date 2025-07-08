@@ -3,6 +3,10 @@ title: "Projects"
 format: html
 ---
 
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<div id="main-content">
+
 ## Selected Presentations
 
 ### **Integrating Quarto with RStudio for Institutional Research**  
@@ -35,3 +39,5 @@ NEAIR Conference 2021
 - *COVID-19 Inspired Research: Return to Campus Survey Dashboard*  
 NEAIR Conference 2020  
 - Faculty Development Series on Assessment (Ongoing)
+
+</div>

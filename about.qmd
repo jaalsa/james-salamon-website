@@ -3,6 +3,10 @@ title: "About"
 format: html
 ---
 
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<div id="main-content">
+
 ## About Me
 
 I'm James Salamon, a higher education data professional based in Easthampton, MA. I currently serve as the Associate Director of Institutional Research and Assessment at Massachusetts College of Pharmacy and Health Sciences.
@@ -23,3 +27,5 @@ I'm a presenter, collaborator, and workshop leader, focused on leveraging open-s
 📧 james.a.salamon@gmail.com  
 📍 Easthampton, MA  
 🔗 [LinkedIn](https://www.linkedin.com/in/james-salamon-a346b278)
+
+</div>

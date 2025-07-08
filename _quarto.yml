@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: About
       - href: James Salamon_Resume.qmd
-        text: Resume
+        text: Resume (opens in PDF)
       - href: projects.qmd
         text: Projects
       - href: accessibility.qmd

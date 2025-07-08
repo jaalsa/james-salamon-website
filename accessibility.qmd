@@ -6,9 +6,13 @@ format:
     number-sections: false
 ---
 
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<div id="main-content">
+
 # Accessibility Commitment
 
-I am committed to ensuring that this website is accessible to all individuals, including those with disabilities. My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
+I am committed to ensuring that this website is accessible to all individuals. My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
 
 # Features for Accessibility
 
@@ -24,7 +28,9 @@ I am committed to ensuring that this website is accessible to all individuals, i
 If you experience any accessibility barriers or have suggestions for improvement, please contact me:
 
 - **Name:** James Salamon  
-- **Email:** [james.a.salamon@gmail.com]  
+- **Email:** james.a.salamon@gmail.com  
 - **Subject:** Website Accessibility Feedback
 
 Your feedback is appreciated and will help make this website more inclusive for everyone.
+
+</div>
