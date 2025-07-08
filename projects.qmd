@@ -6,19 +6,22 @@ format: html
 ## Selected Presentations
 
 ### **Integrating Quarto with RStudio for Institutional Research**  
-_North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series, June 2025_  
-• Delivered a live webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
-• Demonstrated how to create dynamic, reproducible reports and documents, combine code, text, and visualizations in a quarto file.
-• Participants received a clear roadmap I created for streamlining data analysis, automating reporting processes, and creating dynamic, reproducible reports using Quarto.
+_North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series, June 2025_
+
+- Delivered a live webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
+- Demonstrated how to create dynamic, reproducible reports and documents, combining code, text, and visualizations in a Quarto file.
+- Participants received a clear roadmap I created for streamlining data analysis, automating reporting processes, and creating dynamic, reproducible reports using Quarto.
+
 
 ### **Using R for Institutional Research Data Analysis and Visualization**  
-_North East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series, August 2024_  
-• Delivered a live webinar on the transformative potential of R and RStudio for Institutional Research.
-• Demonstrated data manipulation, statistical analysis, and visualization capabilities.
-• Covered use cases such as exploratory data analysis, reporting, and survey data analysis.
-• Highlighted automation of tasks, handling large datasets, and creating impactful visualizations.
-• Provided insights on leveraging R's package ecosystem for complex analyses.
-• Equipped participants with knowledge and resources to enhance their use of R.
+_North East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series, August 2024_
+
+- Delivered a live webinar on the transformative potential of R and RStudio for Institutional Research.
+- Demonstrated data manipulation, statistical analysis, and visualization capabilities.
+- Covered use cases such as exploratory data analysis, reporting, and survey data analysis.
+- Highlighted automation of tasks, handling large datasets, and creating impactful visualizations.
+- Provided insights on leveraging R's package ecosystem for complex analyses.
+- Equipped participants with knowledge and resources to enhance their use of R.
 
 ### **IRB-Approved Study: Providing care to an underserved older adult community utilizing an interprofessional education and practice opportunity. The research was supported by a grant from the University’s Center for Interprofessional Practice (IPE).**  
 _MCPHS Faculty Scholarship Showcase, April 2024_

@@ -17,12 +17,14 @@ I transform complex institutional data into actionable insights that drive strat
 I help higher education institutions make data-driven decisions through comprehensive research, assessment programs, and business intelligence solutions. My expertise spans the full data lifecycle—from governance and collection to analysis and strategic reporting.
 
 **Key Achievements:**
+
 - Built enterprise-level data infrastructure serving multi-campus university systems
 - Delivered $18,000+ in annual cost savings through innovative survey automation
 - Led university-wide assessment programs supporting accreditation and strategic planning
 - Developed data governance frameworks ensuring compliance and quality standards
 
 **Technical Expertise:**
+
 - **Analytics & Programming:** R/RStudio, SQL, Python, SPSS, Statistical Analysis
 - **Visualization:** Tableau (Server, Desktop, Prep), Power BI, Quarto, Advanced Excel
 - **Research & Assessment:** Survey Design, Institutional Research, Program Evaluation
