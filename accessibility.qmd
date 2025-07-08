@@ -8,9 +8,7 @@ format:
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<div id="main-content">
-
-# Accessibility Commitment
+# Accessibility Commitment {#main-content}
 
 I am committed to ensuring that this website is accessible to all individuals. My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
 
@@ -31,6 +29,4 @@ If you experience any accessibility barriers or have suggestions for improvement
 - **Email:** james.a.salamon@gmail.com  
 - **Subject:** Website Accessibility Feedback
 
-Your feedback is appreciated and will help make this website more inclusive for everyone.
-
-</div>
+Your feedback is appreciated and will help improve the usability of this website for all visitors.
