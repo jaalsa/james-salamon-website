@@ -10,7 +10,8 @@ format:
 
 # Accessibility Commitment {#main-content}
 
-I am committed to ensuring that this website is accessible to all individuals. My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
+I am committed to ensuring that this website is accessible to all individuals.  
+My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
 
 # Features for Accessibility
 
