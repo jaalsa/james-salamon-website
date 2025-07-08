@@ -168,6 +168,7 @@ Related Coursework: Education Policy and Social Analysis, Data Analysis for Poli
 Credential Verification: https://bit.ly/james-data-governance
 
 **Leadership Management Program** | *Colleges of the Fenway, April 2023*
+Program Information: https://www.colleges-fenway.org/leadership-management-program/
 
-**R for IR Workshop Series** | *July 2022 – Present*  
-Participant in ongoing professional development workshop series
+**R for IR Workshop Series** | *July 2022 – November 2022*  
+Completed a multi-part professional development series focused on applying R in institutional research contexts.
