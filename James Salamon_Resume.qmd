@@ -53,7 +53,7 @@ Strategic data leader with 10+ years of experience transforming complex institut
 **Associate Director, Office of Institutional Research and Assessment** | *July 2022 – Present*  
 Lead comprehensive institutional research operations for a multi-campus health sciences university, overseeing data infrastructure development and assessment programs serving diverse academic constituencies.
 
-- **Build Enterprise Data Infrastructure:** Collaborated with IT to design and implement the university's first Institutional Research and Assessment Database, establishing foundational data architecture using Azure Data Studio and advanced SQL programming
+- **Established Foundational Data Infrastructure:** Built the university’s first Institutional Research and Assessment Database in collaboration with IT, using Azure Data Studio and advanced SQL; continue to partner on enhancements and data architecture expansion
 - **Manage University-Wide Assessment Programs:** Spearhead comprehensive course evaluation processes from design through analysis, ensuring systematic data collection across all academic programs
 - **Establish Data Governance Framework:** Lead development of university-wide data governance policies, procedures, and standards, driving organizational commitment to data quality and regulatory compliance
 - **Deliver Critical Compliance Reporting:** Ensure timely completion of IPEDS submissions and NECHE accreditation requirements, maintaining institutional standing and regulatory compliance
@@ -76,39 +76,39 @@ Established foundational systems and processes for institutional research operat
 **Research and Business Systems Analyst, Office of Institutional Research and Decision Support** | *October 2018 – June 2020*  
 Delivered comprehensive data analysis and reporting solutions for a major private research university, optimizing operational efficiency through strategic technology implementation.
 
-- **Generate Significant Cost Savings:** Created and maintained graduate outcomes survey system, delivering $18,000 in annual savings while improving data quality and response rates
-- **Develop Multi-Platform Analytics:** Designed complex reports using SQL, SPSS, R, and Tableau across diverse environments including Workday, Oracle, and SQL Server, ensuring comprehensive data accessibility for university leadership
-- **Ensure Regulatory Compliance:** Provided critical data analysis for federal and state reporting requirements, accreditation submissions, and college ranking publications
-- **Enhance Data Quality Processes:** Conducted systematic data quality audits and delivered actionable recommendations to HR, Payroll, Finance, and IT system owners
-- **Support Strategic Planning:** Created sophisticated Workday ERP reports for academic planning, budgeting, and financial analysis in support of Provost Office initiatives
-- **Optimize Operations:** Developed and enhanced operational reports and maintained reporting and integration with IR databases
+- **Generated Significant Cost Savings:** Created and maintained graduate outcomes survey system, delivering $18,000 in annual savings while improving data quality and response rates
+- **Developed Multi-Platform Analytics:** Designed complex reports using SQL, SPSS, R, and Tableau across diverse environments including Workday, Oracle, and SQL Server, ensuring comprehensive data accessibility for university leadership
+- **Ensured Regulatory Compliance:** Provided critical data analysis for federal and state reporting requirements, accreditation submissions, and college ranking publications
+- **Enhanced Data Quality Processes:** Conducted systematic data quality audits and delivered actionable recommendations to HR, Payroll, Finance, and IT system owners
+- **Supported Strategic Planning:** Created sophisticated Workday ERP reports for academic planning, budgeting, and financial analysis in support of Provost Office initiatives
+- **Optimized Operations:** Developed and enhanced operational reports and maintained reporting and integration with IR databases
 
 **Data Analyst, Office of Student Success** | *January 2017 – October 2018*  
 Established systematic data request processes and conducted high-impact retention research, supporting university-wide student success initiatives.
 
-- **Implement Service Excellence System:** Created Data Project Request Ticket System, streamlining administrative data requests and improving cross-departmental collaboration
-- **Lead High-Profile Research Initiative:** Conducted and presented College of Performing Arts Retention Study to senior university leadership, influencing strategic enrollment management decisions
-- **Deliver Comprehensive Analytics:** Produced statistical reports on enrollment trends, retention patterns, and student demographics, supporting evidence-based program development
-- **Advance Analytical Best Practices:** Established standards for statistical approaches, reproducibility protocols, and accuracy validation across institutional research functions
+- **Implemented Service Excellence System:** Created Data Project Request Ticket System, streamlining administrative data requests and improving cross-departmental collaboration
+- **Led High-Profile Research Initiative:** Conducted and presented College of Performing Arts Retention Study to senior university leadership, influencing strategic enrollment management decisions
+- **Delivered Comprehensive Analytics:** Produced statistical reports on enrollment trends, retention patterns, and student demographics, supporting evidence-based program development
+- **Advanced Analytical Best Practices:** Established standards for statistical approaches, reproducibility protocols, and accuracy validation across institutional research functions
 
 ### Research Foundation of The City University of New York | New York, NY  
 **Workforce Management Analyst | NYC 311** | *May 2015 – January 2017*
 
 Provided strategic workforce analytics for New York City's primary citizen services platform, optimizing operational efficiency through data-driven forecasting and resource allocation.
 
-- **Deliver Executive Reporting:** Created comprehensive analyses of historical trends, departmental efficiency metrics, and strategic planning recommendations for NYC 311 senior management
-- **Conduct Predictive Analytics:** Developed sophisticated call volume and staffing forecasting models, enabling proactive resource planning and service level optimization
-- **Identify Operational Opportunities:** Analyzed seasonal patterns and service trends to recommend operational improvements and efficiency enhancements
-- **Manage Financial Operations:** Reviewed and allocated payments to NYC 311 vendors
+- **Delivered Executive Reporting:** Created comprehensive analyses of historical trends, departmental efficiency metrics, and strategic planning recommendations for NYC 311 senior management
+- **Conducted Predictive Analytics:** Developed sophisticated call volume and staffing forecasting models, enabling proactive resource planning and service level optimization
+- **Identified Operational Opportunities:** Analyzed seasonal patterns and service trends to recommend operational improvements and efficiency enhancements
+- **Managed Financial Operations:** Reviewed and allocated payments to NYC 311 vendors
 
 ### School Professionals | New York, NY  
 **Data Analyst/Research Consultant | NYC Department of Education** | *October 2014 – May 2015*
 
 Supported research and policy development for the nation's largest public school system through comprehensive data analysis and strategic research initiatives.
 
-- **Manage High-Priority Research Requests:** Processed external researcher data requests and Freedom of Information Law inquiries with strict confidentiality and accuracy standards
-- **Contribute to Policy Development:** Authored policy briefs and conducted literature reviews supporting major NYC Department of Education initiatives
-- **Apply Advanced Statistical Methods:** Utilized descriptive and inferential statistics for complex analytical projects supporting educational policy decisions
+- **Managed High-Priority Research Requests:** Processed external researcher data requests and Freedom of Information Law inquiries with strict confidentiality and accuracy standards
+- **Contributed to Policy Development:** Authored policy briefs and conducted literature reviews supporting major NYC Department of Education initiatives
+- **Applied Advanced Statistical Methods:** Utilized descriptive and inferential statistics for complex analytical projects supporting educational policy decisions
 
 ## Professional Leadership & Research
 
