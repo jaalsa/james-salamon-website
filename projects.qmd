@@ -8,7 +8,7 @@ format: html
 ## Selected Presentations {#main-content}
 
 ### **Integrating Quarto with RStudio for Institutional Research**  
-_North East Association for Institutional Research 2025 Sharpen Your Skills Toolkit Series, June 2025_
+_North East Association for Institutional Research (NEAIR) 2025 Sharpen Your Skills Toolkit Series, June 2025_
 
 - Delivered a live webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
 - Demonstrated how to create dynamic, reproducible reports and documents, combining code, text, and visualizations in a Quarto file.
@@ -16,7 +16,7 @@ _North East Association for Institutional Research 2025 Sharpen Your Skills Tool
 
 
 ### **Using R for Institutional Research Data Analysis and Visualization**  
-_North East Association for Institutional Research 2024 Sharpen Your Skills Toolkit Series, August 2024_
+_North East Association for Institutional Research (NEAIR) 2024 Sharpen Your Skills Toolkit Series, August 2024_
 
 - Delivered a live webinar on the transformative potential of R and RStudio for Institutional Research.
 - Demonstrated data manipulation, statistical analysis, and visualization capabilities.
@@ -26,17 +26,28 @@ _North East Association for Institutional Research 2024 Sharpen Your Skills Tool
 - Equipped participants with knowledge and resources to enhance their use of R.
 
 ### **IRB-Approved Study: Providing care to an underserved older adult community utilizing an interprofessional education and practice opportunity. The research was supported by a grant from the University’s Center for Interprofessional Practice (IPE).**  
-_MCPHS Faculty Scholarship Showcase, April 2024_
+_Massachusetts College of Pharmacy and Health Sciences (MCPHS) Faculty Scholarship Showcase, April 2024_
 
 ---
 
 ## Past Talks & Research
 
-- *Lead Presenter, 2022 MCPHS Faculty Development Series: Understanding Assessment*  
-Delivered interactive sessions on planning the assessment process, identifying relevant data, and implementing best practices for data collection.  
-Presentation materials continue to be used by faculty as ongoing resources.
+- **Presenter**, *Understanding Assessment*  
+  Faculty Development Series, Massachusetts College of Pharmacy and Health Sciences (MCPHS), 2022  
+  Delivered interactive sessions on planning assessment processes, selecting meaningful data, and applying best practices in data collection.  
+  Session materials remain in active use as faculty resources.
 
-- *Mitigating Gender Bias in Student Evaluations of Teaching*  
-NEAIR Conference 2021  
-- *COVID-19 Inspired Research: Return to Campus Survey Dashboard*  
-NEAIR Conference 2020  
+## Past Talks & Research
+
+- **Presenter**, *Understanding Assessment*  
+  Faculty Development Series, Massachusetts College of Pharmacy and Health Sciences (MCPHS), 2022  
+  Delivered interactive sessions on planning assessment processes, selecting meaningful data, and applying best practices in data collection.  
+  Session materials remain in active use as faculty resources.
+
+- **Primary Researcher & Presenter**, *Mitigating Gender Bias in Student Evaluations of Teaching*  
+  North East Association for Institutional Research (NEAIR) Annual Conference, 2021  
+  Conducted original research exploring gender bias in student evaluations and presented key findings to an institutional research audience.
+
+- **Survey Designer, Dashboard Developer & Presenter**, *Massachusetts College of Pharmacy and Health Sciences (MCPHS) Return to Campus Survey Tableau Dashboard: COVID-19 Inspired Research*  
+  North East Association for Institutional Research (NEAIR) Annual Conference, 2020  
+  Led the design and analysis of a university-wide survey and developed an interactive Tableau dashboard to support return-to-campus planning.
