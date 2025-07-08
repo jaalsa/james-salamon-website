@@ -1,0 +1,30 @@
+---
+title: "Accessibility"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+# Accessibility Commitment
+
+I am committed to ensuring that this website is accessible to all individuals, including those with disabilities. My goal is to meet or exceed Web Content Accessibility Guidelines (WCAG) 2.1 Level AA wherever possible.
+
+# Features for Accessibility
+
+- Clear and consistent page structure using semantic HTML
+- High color contrast for readability
+- Keyboard-navigable interface
+- "Skip to main content" link for screen reader users
+- Descriptive link texts and accessible labels
+- Responsive design for all devices
+
+# Need Help or Found an Issue?
+
+If you experience any accessibility barriers or have suggestions for improvement, please contact me:
+
+- **Name:** James Salamon  
+- **Email:** [james.a.salamon@gmail.com]  
+- **Subject:** Website Accessibility Feedback
+
+Your feedback is appreciated and will help make this website more inclusive for everyone.

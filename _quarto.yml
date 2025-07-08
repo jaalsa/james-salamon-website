@@ -14,14 +14,19 @@ website:
         text: Resume
       - href: projects.qmd
         text: Projects
+      - href: accessibility.qmd
+        text: Accessibility
   page-footer:
     center: |
-      <div style="text-align: center;">
+      <div style="text-align: center;" aria-label="Footer with copyright and update information">
         © 2025 James Salamon<br>
-        <span style="font-style: italic;">Last updated: July 5, 2025</span>
+        <span style="font-style: italic;">Last updated: July 8, 2025</span>
       </div>
+
 format:
   html:
+    lang: en
     theme: cosmo
     css: styles.css
     toc: true
+    html-math-method: mathjax
