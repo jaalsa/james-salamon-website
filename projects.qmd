@@ -31,8 +31,8 @@ _Presented findings from IRB-approved research on interprofessional education an
 
 ## Research & Scholarly Contributions 
 
-**Evaluating Interprofessional Competence via Team Observed Structured Clinical Encounters and Standardized Patients** | *Author*  
-*Submitted for consideration in the* *Journal of Interprofessional Care*, *April 2025*  
+- **Author**, *Evaluating Interprofessional Competence via Team Observed Structured Clinical Encounters and Standardized Patients* 
+**Submitted for consideration in the Journal of Interprofessional Care, April 2025**  
 Quantitative research study assessing interprofessional competence among dental hygiene, nursing, pharmacy, and physician assistant students using Team Observed Structured Clinical Encounters (TOSCEs) and standardized patients.  
 - Facilitator-observed behaviors evaluated using a four-point scale and analyzed using ANOVA in JASP to identify discipline-specific trends.  
 - Student self-assessments analyzed using paired T-tests in SPSS to measure ICCAS score changes from pre- to post-TOSCE.
