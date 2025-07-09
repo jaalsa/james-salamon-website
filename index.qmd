@@ -31,11 +31,6 @@ My expertise spans the entire data lifecycle—from governance and collection to
 
 ## Technical Skills & Core Competencies
 
-- **Core Competencies**  
-  Statistical Analysis · Predictive Modeling · Survey Design & Administration · Institutional Research · Learning Outcomes Assessment  
-  Data Governance · Data Visualization & Storytelling · Business Intelligence · Process Improvement · Project Management  
-  Strategic Planning · Stakeholder Engagement · Cross-functional Collaboration
-
 - **Programming & Statistical Languages**  
   R · Python · SQL · SPSS · DuckDB 
 
@@ -50,6 +45,11 @@ My expertise spans the entire data lifecycle—from governance and collection to
 
 - **Open-Source & Development Environments**  
   RStudio · Positron · DBeaver · Azure Data Studio · JupyterLab · Visual Studio Code · Git
+
+- **Core Competencies**  
+  Statistical Analysis · Predictive Modeling · Survey Design & Administration · Institutional Research · Learning Outcomes Assessment  
+  Data Governance · Data Visualization & Storytelling · Business Intelligence · Process Improvement · Project Management  
+  Strategic Planning · Stakeholder Engagement · Cross-functional Collaboration
 
 ## Current Role
 
