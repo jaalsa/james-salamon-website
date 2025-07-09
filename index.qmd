@@ -29,13 +29,27 @@ My expertise spans the entire data lifecycle—from governance and collection to
 - Led university-wide assessment programs supporting accreditation and strategic planning
 - Developed data governance frameworks ensuring compliance and quality standards
 
-**Technical Expertise:**
+## Technical Skills & Core Competencies
 
-- **Analytics & Programming:** R/RStudio, SQL, Python, SPSS, Statistical Analysis
-- **Visualization:** Tableau (Server, Desktop, Prep), Power BI, Quarto, Advanced Excel
-- **Research & Assessment:** Survey Design, Institutional Research, Program Evaluation
-- **Enterprise Systems:** Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle
-- **Development Tools:** Azure Data Studio, Visual Studio Code, JupyterLab, Positron
+- **Core Competencies**  
+  Statistical Analysis · Predictive Modeling · Survey Design & Administration · Institutional Research · Learning Outcomes Assessment  
+  Data Governance · Data Visualization & Storytelling · Business Intelligence · Process Improvement · Project Management  
+  Strategic Planning · Stakeholder Engagement · Cross-functional Collaboration
+
+- **Programming & Statistical Languages**  
+  R · Python · SQL · SPSS · DuckDB 
+
+- **Data Visualization & Reporting Tools**  
+  Tableau (Desktop, Prep, Server) · Power BI · Advanced Excel
+
+- **Statistical & Survey Tools**  
+  JAMOVI · JASP · SPSS · Qualtrics
+
+- **Enterprise Systems**  
+  Workday ERP · Ellucian Banner · Ellucian Colleague · Salesforce CRM · Oracle Databases · Microsoft SQL Server
+
+- **Open-Source & Development Environments**  
+  RStudio · Positron · DBeaver · Azure Data Studio · JupyterLab · Visual Studio Code · Git
 
 ## Current Role
 

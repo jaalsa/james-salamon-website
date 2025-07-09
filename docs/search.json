@@ -39,7 +39,14 @@
     "href": "index.html#what-i-do",
     "title": "James Salamon",
     "section": "What I Do",
-    "text": "What I Do\nI empower higher education institutions to make data-informed decisions through integrated research, assessment, and business intelligence strategies.\nMy expertise spans the entire data lifecycle—from governance and collection to analysis, visualization, and strategic reporting.\nKey Achievements:\n\nBuilt enterprise-level data infrastructure serving multi-campus university systems\nDelivered $18,000+ in annual cost savings through innovative survey automation\nLed university-wide assessment programs supporting accreditation and strategic planning\nDeveloped data governance frameworks ensuring compliance and quality standards\n\nTechnical Expertise:\n\nAnalytics & Programming: R/RStudio, SQL, Python, SPSS, Statistical Analysis\nVisualization: Tableau (Server, Desktop, Prep), Power BI, Quarto, Advanced Excel\nResearch & Assessment: Survey Design, Institutional Research, Program Evaluation\nEnterprise Systems: Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle\nDevelopment Tools: Azure Data Studio, Visual Studio Code, JupyterLab, Positron"
+    "text": "What I Do\nI empower higher education institutions to make data-informed decisions through integrated research, assessment, and business intelligence strategies.\nMy expertise spans the entire data lifecycle—from governance and collection to analysis, visualization, and strategic reporting.\nKey Achievements:\n\nBuilt enterprise-level data infrastructure serving multi-campus university systems\nDelivered $18,000+ in annual cost savings through innovative survey automation\nLed university-wide assessment programs supporting accreditation and strategic planning\nDeveloped data governance frameworks ensuring compliance and quality standards"
+  },
+  {
+    "objectID": "index.html#technical-skills-core-competencies",
+    "href": "index.html#technical-skills-core-competencies",
+    "title": "James Salamon",
+    "section": "Technical Skills & Core Competencies",
+    "text": "Technical Skills & Core Competencies\n\nCore Competencies\nStatistical Analysis · Predictive Modeling · Survey Design & Administration · Institutional Research · Learning Outcomes Assessment\nData Governance · Data Visualization & Storytelling · Business Intelligence · Process Improvement · Project Management\nStrategic Planning · Stakeholder Engagement · Cross-functional Collaboration\nProgramming & Statistical Languages\nR · Python · SQL · SPSS · DuckDB\nData Visualization & Reporting Tools\nTableau (Desktop, Prep, Server) · Power BI · Advanced Excel\nStatistical & Survey Tools\nJAMOVI · JASP · SPSS · Qualtrics\nEnterprise Systems\nWorkday ERP · Ellucian Banner · Ellucian Colleague · Salesforce CRM · Oracle Databases · Microsoft SQL Server\nOpen-Source & Development Environments\nRStudio · Positron · DBeaver · Azure Data Studio · JupyterLab · Visual Studio Code · Git"
   },
   {
     "objectID": "index.html#current-role",

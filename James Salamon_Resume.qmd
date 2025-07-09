@@ -38,12 +38,25 @@ Strategic data leader with 10+ years of experience transforming complex institut
 
 ## Technical Skills & Core Competencies
 
-**Programming & Analysis:** SQL, R/RStudio, Python, SPSS, DuckDB, JAMOVI, JASP  
-**Development & Platforms:** Azure Data Studio, Positron, Visual Studio Code, JupyterLab, Spyder, DBeaver  
-**Visualization & Reporting:** Tableau (Prep, Desktop, Server), Power BI, Advanced Excel  
-**Research & Assessment:** Qualtrics, Survey Design, Institutional Research, Program Assessment, Data Governance  
-**Enterprise Systems:** Workday ERP, Ellucian Banner/Colleague, Salesforce, Oracle, Microsoft Office Suite  
-**Core Competencies:** Statistical Analysis, Business Intelligence, Data Visualization, Project Management, Strategic Planning, Cross-functional Collaboration, Process Improvement
+- **Core Competencies**  
+  Statistical Analysis · Predictive Modeling · Survey Design & Administration · Institutional Research · Learning Outcomes Assessment  
+  Data Governance · Data Visualization & Storytelling · Business Intelligence · Process Improvement · Project Management  
+  Strategic Planning · Stakeholder Engagement · Cross-functional Collaboration
+
+- **Programming & Statistical Languages**  
+  R · Python · SQL · SPSS · DuckDB 
+
+- **Data Visualization & Reporting Tools**  
+  Tableau (Desktop, Prep, Server) · Power BI · Advanced Excel
+
+- **Statistical & Survey Tools**  
+  JAMOVI · JASP · SPSS · Qualtrics
+
+- **Enterprise Systems**  
+  Workday ERP · Ellucian Banner · Ellucian Colleague · Salesforce CRM · Oracle Databases · Microsoft SQL Server
+
+- **Open-Source & Development Environments**  
+  RStudio · Positron · DBeaver · Azure Data Studio · JupyterLab · Visual Studio Code · Git
 
 ## Professional Experience
 
