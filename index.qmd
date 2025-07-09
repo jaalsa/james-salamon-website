@@ -41,7 +41,7 @@ My expertise spans the entire data lifecycle—from governance and collection to
   JAMOVI · JASP · SPSS · Qualtrics
 
 - **Enterprise Systems**  
-  Workday ERP · Ellucian Banner · Ellucian Colleague · Salesforce CRM · Oracle Database · Microsoft SQL Server
+  Workday ERP · Ellucian Banner · Ellucian Colleague · Asana Work Management Platform · Salesforce CRM · Oracle Database · Microsoft SQL Server
 
 - **Open-Source & Development Environments**  
   RStudio · Positron · DBeaver · DuckDB · Azure Data Studio · JupyterLab · Visual Studio Code · Git · Typst

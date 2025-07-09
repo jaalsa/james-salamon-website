@@ -48,7 +48,7 @@ Strategic data leader with 10+ years of experience transforming complex institut
   JAMOVI · JASP · SPSS · Qualtrics
 
 - **Enterprise Systems**  
-  Workday ERP · Ellucian Banner · Ellucian Colleague · Salesforce CRM · Oracle Database · Microsoft SQL Server
+  Workday ERP · Ellucian Banner · Ellucian Colleague · Asana Work Management Platform · Salesforce CRM · Oracle Database · Microsoft SQL Server
 
 - **Open-Source & Development Environments**  
   RStudio · Positron · DBeaver · DuckDB · Azure Data Studio · JupyterLab · Visual Studio Code · Git · Typst
@@ -68,6 +68,7 @@ Lead comprehensive institutional research operations for a multi-campus health s
 
 - **Established Foundational Data Infrastructure:** Built the university’s first Institutional Research and Assessment Database in collaboration with IT, using Azure Data Studio and advanced SQL; continue to partner on enhancements and data architecture expansion
 - **Manage University-Wide Assessment Programs:** Spearhead comprehensive course evaluation processes from design through analysis, ensuring systematic data collection across all academic programs
+- **Lead Project Management for Team Operations:** Use Asana Work Management Platform to coordinate, track, and manage all team projects, ensuring alignment with institutional priorities and timely execution across initiatives
 - **Establish Data Governance Framework:** Lead development of university-wide data governance policies, procedures, and standards, driving organizational commitment to data quality and regulatory compliance
 - **Deliver Critical Compliance Reporting:** Ensure timely completion of IPEDS submissions and NECHE accreditation requirements, maintaining institutional standing and regulatory compliance
 - **Support Academic Leadership:** Partner with Deans and Program Directors to develop customized assessment strategies and accreditation documentation for specialized health sciences programs
