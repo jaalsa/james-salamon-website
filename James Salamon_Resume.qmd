@@ -123,16 +123,22 @@ Supported research and policy development for the nation's largest public school
 - **Contributed to Policy Development:** Authored policy briefs and conducted literature reviews supporting major NYC Department of Education initiatives
 - **Applied Advanced Statistical Methods:** Utilized descriptive and inferential statistics for complex analytical projects supporting educational policy decisions
 
-## Professional Leadership & Research
+## Research, Scholarship & Professional Presentations
 
 **2025 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *June 2025*  
 Delivered professional development webinar using Quarto on how to integrate Quarto within RStudio to optimize institutional research workflows.
+
+**Evaluating Interprofessional Competence via Team Observed Structured Clinical Encounters and Standardized Patients** | *Author*  
+*Submitted for consideration in the* *Journal of Interprofessional Care*, *April 2025*  
+Quantitative research study assessing interprofessional competence among dental hygiene, nursing, pharmacy, and physician assistant students using Team Observed Structured Clinical Encounters (TOSCEs) and standardized patients.  
+- Facilitator-observed behaviors evaluated using a four-point scale and analyzed using ANOVA in JASP to identify discipline-specific trends.  
+- Student self-assessments analyzed using paired T-tests in SPSS to measure ICCAS score changes from pre- to post-TOSCE.
 
 **2024 Sharpen Your Skills Toolkit Series | North East Association for Institutional Research** | *August 2024*  
 Delivered professional development webinar on "Transformative Potential of R and RStudio for Institutional Research" to regional professional audience, demonstrating advanced analytical capabilities and automation strategies.
 
 **Research Team Leader | MCPHS** | *April 2024*  
-Presented IRB-approved research study on interprofessional education and underserved community care at Faculty Scholarship Showcase, supported by MCPHS Center for Interprofessional Practice grant funding.
+Presented findings from IRB-approved research on interprofessional education and underserved community care using a Tableau dashboard developed specifically for the project. Shared results at the MCPHS Faculty Scholarship Showcase. The study was supported by a grant from The Center for Interprofessional Practice and Education at MCPHS. 
 
 **Assessment Training Developer | MCPHS** | *June 2022*  
 Presenter for Faculty Development Series on Understanding Assessment, delivering training on assessment planning, data collection strategies, and best practices to university faculty.  
