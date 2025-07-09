@@ -25,5 +25,5 @@ With a passion for clear, actionable insight, I’ve led initiatives in:
 
 ### Contact
 
-📧 james.a.salamon@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/james-salamon-a346b278)
+<span aria-hidden="true">📧</span> <a href="mailto:james.a.salamon@gmail.com">james.a.salamon@gmail.com</a>  
+<span aria-hidden="true">🔗</span> <a href="https://www.linkedin.com/in/james-salamon-a346b278" target="_blank" rel="noopener noreferrer">LinkedIn</a>
