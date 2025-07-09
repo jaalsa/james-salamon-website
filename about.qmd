@@ -19,7 +19,7 @@ With a passion for clear, actionable insight, I’ve led initiatives in:
 - Accreditation and institutional effectiveness  
 - Survey design and analysis
 
-**_I'm a presenter, collaborator, and workshop leader passionate about using open-source tools like R and Quarto to modernize data practices in institutional research and other fields._**
+**I'm a presenter, collaborator, and workshop leader passionate about using open-source tools like R and Quarto to modernize data practices in institutional research and other fields.**
 
 ---
 
